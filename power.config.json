@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "appId": "336bcb8e-2801-4e6c-a471-73e7042077aa",
+  "appDisplayName": "AgenticAI",
+  "region": "prod",
+  "environmentId": "1669890e-f09f-eade-9344-0b48a77e25da",
+  "description": " ",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}
